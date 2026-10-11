@@ -1,6 +1,6 @@
 # ORBITHOS — Shorts Üretim Takibi
 
-Kullanılan görsel tarzlar (tekrar etme): düz orman/kâğıt yırtılma, belge noir/flaş, Sovyet afişi raster/kırmızı şerit, gece manzara/gaz sisi, Yunan siyah-figür vazo/vazo dönmesi, gravür parşömen/mürekkep lekesi, cyanotype blueprint/Cherenkov halka, **yeşil çizgili 1977 bilgisayar çıktısı + kırmızı kalem / sürekli form kâğıt beslemesi (43)**, **1919 gazete sayfası iki renk baskı (siyah + melas kahvesi) / melas akıntısı perdesi (44)**, **vitray (kurşun hatlı renkli cam, arkadan aydınlatma) / cam panellerin dalga halinde parlayıp değişmesi (45)**, **1950'ler atom çağı orta-yüzyıl illüstrasyonu (pastel düz renk, baskı kayması) / yıldız patlaması iris (46)**, **Turner esintili romantik yağlıboya (fırça dokusu, tuval) / geniş fırça darbesi silme (47)**, **Türk ebru sanatı (damla/tarak/girdap mermerleme modeli) / ebru tarağıyla çekilen mermer geçiş (48)**, **Çin mürekkep yıkama (sumi-e) pirinç kâğıdı + kırmızı mühürler / asma rulo açılması (49)**
+Kullanılan görsel tarzlar (tekrar etme): düz orman/kâğıt yırtılma, belge noir/flaş, Sovyet afişi raster/kırmızı şerit, gece manzara/gaz sisi, Yunan siyah-figür vazo/vazo dönmesi, gravür parşömen/mürekkep lekesi, cyanotype blueprint/Cherenkov halka, **yeşil çizgili 1977 bilgisayar çıktısı + kırmızı kalem / sürekli form kâğıt beslemesi (43)**, **1919 gazete sayfası iki renk baskı (siyah + melas kahvesi) / melas akıntısı perdesi (44)**, **vitray (kurşun hatlı renkli cam, arkadan aydınlatma) / cam panellerin dalga halinde parlayıp değişmesi (45)**, **1950'ler atom çağı orta-yüzyıl illüstrasyonu (pastel düz renk, baskı kayması) / yıldız patlaması iris (46)**, **Turner esintili romantik yağlıboya (fırça dokusu, tuval) / geniş fırça darbesi silme (47)**, **Türk ebru sanatı (damla/tarak/girdap mermerleme modeli) / ebru tarağıyla çekilen mermer geçiş (48)**, **Çin mürekkep yıkama (sumi-e) pirinç kâğıdı + kırmızı mühürler / asma rulo açılması (49)**, **Ortaçağ tezhipli el yazması (altın varak, damalı minyatür, gotik figürler) / sayfa çevirme (50)**
 
 | NN | tarih | tür | konu | tarz | geçiş | süre | LUFS | başlık |
 |----|-------|-----|------|------|-------|------|------|--------|
@@ -18,4 +18,6 @@ Kullanılan görsel tarzlar (tekrar etme): düz orman/kâğıt yırtılma, belge
 
 | 49 | 2026-10-11 | BİLİM/UZAY | 1054 süpernovası / Yengeç Bulutsusu | sumi-e: pirinç kâğıdı lifleri, sırt-düşen mürekkep dağlar, sis, sivrilen fırça vuruşları, CJK kırmızı mühürler | ahşap silindirle asma rulo açılması (gölge) + son karede başa dönüş | 47.4 sn | -14.04 (TP -1.61, VO/bus 16.5 dB) | In 1054, a Star Exploded So Bright You Could See It at Noon 🌟 |
 
-Sıradaki: 50 → TARİH/GİZEM
+| 50 | 2026-10-11 | TARİH/GİZEM | 1518 Strazburg Dans Vebası | tezhipli el yazması: parşömen, altın çerçeveli minyatür, lacivert/kırmızı/yeşil damalı zemin, sarmaşık kenar süsü, tezhipli baş harf, gotik dans figürleri | sağ kenardan kalkan sayfa çevirme (gölgeli kıvrım) + son karede başa dönüş | 46.6 sn | -14.11 (TP -1.62, VO/bus 16.4 dB) | In 1518, Hundreds of People Danced and Couldn't Stop 💃 |
+
+Sıradaki: 51 → MİTOLOJİ
