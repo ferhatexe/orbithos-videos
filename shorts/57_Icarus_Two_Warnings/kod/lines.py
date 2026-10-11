@@ -1,0 +1,15 @@
+L=[
+("Everyone knows Icarus flew too close to the sun. But his father gave him two warnings.",0.5,"hook"),
+("Daedalus, a genius inventor, was trapped on Crete with his son by King Minos.",0.3,"crete"),
+("So he built wings. He laid feathers in rows, short to long, like a shepherd's pipes,",0.2,"crete"),
+("bound them with thread, and fixed them with wax.",0.45,"crete"),
+("Before they flew, he warned him: not too high, or the sun will melt the wax.",0.35,"warn"),
+("And not too low, or the sea will soak your feathers and drag you down.",0.35,"warn"),
+("Fly the middle path.",0.45,"warn"),
+("Below, a fisherman and a shepherd looked up, and thought they were gods.",0.4,"fall"),
+("But Icarus, thrilled, climbed higher and higher. The wax softened, the feathers slipped,",0.3,"fall"),
+("and he fell into the sea that bears his name: the Icarian Sea.",0.35,"fall"),
+("His father buried him on the nearest island, and called it Icaria.",0.5,"fall"),
+("We remember it as a warning against flying too high.",0.3,"moral"),
+("But in Ovid's telling, too low was just as deadly. And yet,",0.3,"moral"),
+]
