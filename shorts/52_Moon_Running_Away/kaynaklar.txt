@@ -1,0 +1,7 @@
+KAYNAKLAR — Short 52: The Moon is moving away (~3.8 cm/yıl)
+- NASA GSFC Eclipse site, "Measuring the Moon's Distance" (Apollo lazer yansıtıcıları) — https://eclipse.gsfc.nasa.gov/help/ApolloLaser.html (Apollo 11, 1969: 100 köşe-küp yansıtıcı; lazer gidiş-dönüş ~2,5 sn)
+- ScienceBlog / The Conversation, "The Moon is drifting away from Earth at 3.8 centimetres a year" — https://scienceblog.com/k-the-moon-is-drifting-away-from-earth-at-3-8-centimetres-a-year-so-what-happens-to-us-as-it-goes/ (50 yıllık lazer ölçümü, 3,83 cm/yıl; tırnak uzama hızına benzer; gelgit mekanizması)
+- ScienceDaily (2018), Meyers & Malinverno, PNAS — https://www.sciencedaily.com/releases/2018/06/180604151200.htm (1,4 milyar yıl önce bir gün ~18 saat)
+- Discover Magazine, "The Moon's Gradual Retreat is Lengthening Earth Days" — https://www.discovermagazine.com/the-sciences/the-moons-gradual-retreat-is-lengthening-earth-days
+- Springer, Astrophysics and Space Science (2021), "On the Relation of the Lunar Recession and the Length-of-the-Day" — https://link.springer.com/article/10.1007/s10509-021-04004-7
+NOTLAR: Tam güneş tutulmalarının çok uzak gelecekte (yüz milyonlarca yıl sonra) sona ereceği yaygın kabul gören bir tahmindir; videoda "far future" olarak verildi.
