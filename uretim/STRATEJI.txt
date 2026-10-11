@@ -1,0 +1,53 @@
+ORBITHOS — YOUTUBE SHORTS PERFORMANS ANALİZİ VE YENİ ÜRETİM KURALLARI
+(Bundan sonraki tüm Shorts videolarında uygula)
+
+1) DURUM (YouTube Studio, son 28 gün, sadece Shorts)
+- Toplam 27,4 B görüntüleme, 163 abone. İzlenmelerin %86,6'sı Shorts akışından geliyor; yani videolar keşfete giriyor ama testi geçemiyor.
+- Her Short yaklaşık 1.000–1.450 görüntülemede duruyor. Hiçbiri 2 bini geçmedi. Bu, YouTube'un ilk test kitlesinden sonra dağıtımı kestiğini gösteriyor.
+- İzlemeye devam edenler (kaydırmayanlar): kanal ortalaması %64,1. Viral Shorts'ta bu genelde %75–80+.
+- Ortalama izlenme yüzdesi: %45–78. Viral Shorts'ta %90–100+ (döngüyle).
+- Video süreleri 1:55–3:00. Ortalama izlenme süresi 0:57–1:44. İzleyici yarıda çıkıyor.
+
+En iyi ve en kötü örnekler (devam eden % / ortalama izlenme % / süre):
+- King Tut's Dagger Came From Space: %75,0 / %78,0 / 2:06 → en güçlü konu
+- This Star Blinks (Algol): %74,3 / %69,5 / 2:13
+- The Night the Sky Caught Fire (Carrington): %72,1 / %70,9 / 2:08
+- NASA Fixed Voyager 1: %68,4 / %71,0 / 2:15
+- He Measured the Earth With a Stick: %64,2 / %45,5 / 2:06 → izleyici erken çıkıyor
+- Krakatoa: %58,4 / %56,0 / 2:04
+- From You to the Edge of the Universe: %29,9 devam → en zayıf açılış; ilk saniyede kaydırılıyor
+
+TEŞHİS: Asıl sorun süre ve açılış. 2–3 dakikalık Shorts'ta %100 izlenmeye ulaşmak imkânsıza yakın. Algoritma izlenme yüzdesine ve kaydırma oranına bakıyor, ikisi de eşik altında kalıyor.
+
+2) YENİ SHORTS KURALLARI (zorunlu)
+a) SÜRE: 35–55 saniye. Kesinlikle 60 saniyeyi geçme. Tek bir şaşırtıcı fikir anlat, gerisini at.
+b) İLK 1 SANİYE (KANCA): Video en çarpıcı cümle + hareketli/şok edici görüntüyle başlasın. Logo, yavaş zoom, siyah ekran, "Imagine…" gibi ısınma girişleri YOK. Örnek açılışlar: "This lake killed 1,746 people in one night." / "King Tut was buried with a dagger from space."
+c) İLK 3 SANİYE: Ekranda büyük başlık metni + anlatım aynı anda. Merak sorusu ilk 3 saniyede sorulsun, cevap en sonda gelsin.
+d) TEMPO: Her 1,5–2,5 saniyede görsel değişiklik (kesme, zoom, yeni kart). Ölü an olmasın.
+e) DÖNGÜ (LOOP): Son cümle videonun ilk cümlesine bağlansın ki izleyici fark etmeden baştan izlesin. Sonda "abone ol", outro, uzun logo ekranı YOK. Orbithos logosu sadece filigran olarak kalsın.
+f) ANLATIM: Daha hızlı ve doğal; yapay zekâ gibi monoton değil. Gereksiz sıfat ve dolgu cümleleri çıkar. (Önceki izleyici yorumu: "slop narration" ve efektler anlatımdan yüksek. Mastering kuralları aynen geçerli.)
+g) ALTYAZI: Karaoke tarzı, söylenen kelime turuncu, alt bantta (mevcut standart). İlk 3 saniyede metin büyük ve okunur olsun.
+h) BAŞLIK: 40–60 karakter, sayı veya şok unsuru içersin. Emoji en fazla 1.
+i) AÇIKLAMA: Uzun açıklama YouTube'da kalabilir. Shorts'un başarısını belirleyen video, açıklama değil.
+
+3) UZUN VERSİYON STRATEJİSİ
+- Aynı konunun 2–3 dakikalık tam anlatımı ayrı bir yatay/uzun video olarak (ya da "full story" olarak) yüklenebilir.
+- Shorts sadece kanca + tek bir çarpıcı bilgi olsun. Uzun anlatımı Shorts'a sıkıştırma.
+
+4) İLK İŞ: EN İYİ GİDENLERİN 45 SANİYELİK YENİ SÜRÜMLERİ
+Yeni konuya geçmeden önce şu 5 videonun 35–55 saniyelik, yeni kanca ve döngülü sonla yeniden kurgulanmış sürümlerini üret:
+1. King Tut's Dagger Came From Space
+2. This Star Blinks (Algol)
+3. The Night the Sky Caught Fire (Carrington)
+4. NASA Fixed Voyager 1 With a 1977 Computer
+5. A 2,000-Year-Old Computer (Antikythera)
+Her biri için ver: yeni senaryo (maks. ~110–130 kelime), ilk cümle kancası, döngü cümlesi, sahne listesi (her sahne 1,5–2,5 sn), yeni başlık. Küçük resim formatı kanalın mevcut standardında kalsın.
+
+5) KONU SEÇİMİ
+Kanalın 3 konu türü arasında dönüşümlü üretmeye devam et; en iyi verim "uzaydan gelen / gerçek olmuş gibi görünmeyen tarihî olaylar" ve "gökyüzü olayları" kesişiminde. Dizi bölümleri (The Time Antiquarian) tek başına izlendiğinde zayıf kalıyor; her bölüm tek başına anlaşılır bir kanca ile açılmalı.
+
+6) BAŞARI ÖLÇÜSÜ (yeni videolar için hedef)
+- İzlemeye devam edenler ≥ %75
+- Ortalama izlenme yüzdesi ≥ %90
+- İlk 48 saatte 1.500+ görüntüleme
+Bu hedefleri tutturan formatı sabit şablon yap.

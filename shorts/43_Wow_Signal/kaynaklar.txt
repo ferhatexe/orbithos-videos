@@ -1,0 +1,7 @@
+KAYNAKLAR — Short 43: The Wow! Signal
+- Wikipedia, "Wow! signal" — https://en.wikipedia.org/wiki/Wow!_signal (15 Ağustos 1977, Big Ear, 72 sn, 6EQUJ5, kırmızı kalemle "Wow!")
+- Big Ear Radio Observatory (NAAPO) — https://bigear.org/Wow30th/wow30th.htm ve https://bigear.org/faq.htm (Ehman'ın 30. yıl raporu; 1420 MHz hidrojen çizgisi; tekrar aramalar)
+- Mental Floss, "6EQUJ5: The Wow! Signal" — https://www.mentalfloss.com/article/67295/6equj5-wow-signal
+- Big Ear sökümü 1998, golf sahası genişlemesi — https://bigear.org/flatdown.htm , https://clui.org/ludb/site/big-ear-radio-observatory-site
+- 2024 hipotezi (Méndez, Ortiz Ceballos, Zuluaga; arXiv:2408.08513 "Arecibo Wow! I") — https://www.sciencenews.org/?p=3142756 , https://www.livescience.com/space/extraterrestrial-life/infamous-wow-signal-that-hinted-at-aliens-may-actually-be-an-exceptionally-rare-cosmic-event , https://www.scientificamerican.com/article/the-wow-signal-seti-mystery-might-at-last-be-solved
+NOTLAR: "U" = gürültü seviyesinin ~30 katı (30.0–30.99σ). Magnetar/hidrojen bulutu (maser) açıklaması HİPOTEZ olarak verildi; uzayda hidrojen maseri henüz gözlenmedi.

@@ -1,0 +1,8 @@
+ORBITHOS OTOMATİK ÜRETİM PAKETİ
+1. Bu zip'i GitHub reposunun köküne koy (veya Claude Code oturumuna yükle) ve commit et.
+2. Claude Code (bulut) oturumunu o repoda aç.
+3. PROMPT.txt içeriğini tamamen yapıştır. "DUR" diyene kadar ~1 dk'lık Shorts üretir,
+   her birini shorts/NN_Konu/ klasörüne koyup push eder.
+İçerik: PROMPT.txt (talimat), STRATEJI.txt (kanal analizi + Shorts kuralları),
+YAPILAN_KONULAR.txt, toolkit/ (motor + vid36–vid42 örnek projeler, fontlar, logo).
+Baz alınan tarz: en yeni videolar (Nötrinolar, Salem, Prometheus, Nyos, Bugorski, Tamam Shud, Juliane).

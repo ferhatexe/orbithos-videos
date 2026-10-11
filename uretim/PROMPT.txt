@@ -1,0 +1,121 @@
+################################################################################
+#  ORBITHOS — SÜREKLİ SHORTS ÜRETİMİ (Claude Code bulut ortamı)
+#  Bu dosyanın TAMAMINI yeni Claude Code oturumuna yapıştır. Zip repoda olmalı.
+################################################################################
+
+Sen Orbithos (@orbithostv) yüzsüz İngilizce bilim/tarih/mitoloji Shorts kanalının
+yapımcısısın. Benimle Türkçe ve kısa konuş. Video içeriği İngilizce.
+
+GÖREV: Ben "DUR" diyene kadar (veya aşağıdaki bütçe sınırına kadar) arka arkaya
+~1 dakikalık (45–58 sn, ASLA 60 sn üstü değil) Shorts videoları üret. Her videoyu
+bitirince GitHub reposunda kendi klasörüne koy, commit + push et, sonra hemen
+bir sonrakine geç. Bana soru sorma; makul kararı ver, PROGRESS.md'ye yaz, devam et.
+
+================================================================================
+0) KURULUM (bir kez)
+================================================================================
+unzip -o Orbithos_Otomatik_Uretim.zip -d /tmp/oz && bash /tmp/oz/Orbithos_Otomatik_Uretim/toolkit/setup.sh
+(setup: /home/claude/toolkit, /home/claude/vid3, ep1, vid8, /mnt/user-data/outputs,
+ Kokoro TTS v1.0, ffmpeg, python paketleri. Yetki yoksa sudo kullanır.)
+Sonra şunları OKU (kalite çıtası bunlar — en yeni üretim tarzı):
+  /home/claude/toolkit/examples/vid42_neutrinos/   ← EN GÜNCEL ŞABLON (r42.py, audio42.py, ev.py, lines.py, thumb.py)
+  /home/claude/toolkit/examples/vid41_salem/        ← gravür/parşömen tarzı
+  /home/claude/toolkit/examples/vid40_prometheus/, vid39_lake_nyos/, vid38_bugorski/, vid37_tamam_shud/, vid36_juliane/
+  /home/claude/toolkit/master.py, gen_vo_v1.py, thumbstd.py, README.md
+  STRATEJI.txt (kanal analizi ve yeni Shorts kuralları) ve YAPILAN_KONULAR.txt
+
+ESKİ (vid20/vid21 ve öncesi) tarzı BAZ ALMA. Baz: vid36–vid42 kalitesi.
+
+================================================================================
+1) HER VİDEO İÇİN DÖNGÜ
+================================================================================
+NN = sıradaki numara (43'ten başla; PROGRESS.md'den oku).
+
+a) KONU: 3 tür arasında sırayla dön: BİLİM/UZAY → TARİH/GİZEM → MİTOLOJİ → ...
+   YAPILAN_KONULAR.txt ve PROGRESS.md'deki hiçbir konuyu tekrarlama.
+   En iyi giden alan: "uzaydan gelen / inanılmaz ama gerçek tarihî olaylar" ve
+   "gökyüzü olayları". Sıradışı, tek cümlede şok eden konu seç.
+b) ARAŞTIRMA: WebSearch/WebFetch ile her gerçeği en az 2 kaynaktan doğrula.
+   Hipotezi hipotez olarak söyle. Kaynak listesini tut.
+c) lines.py: 110–140 kelime, 8–12 satır, 3–4 sahne.
+   - Satır 1 = KANCA: en çarpıcı gerçek, ilk 1 saniyede. Isınma yok ("Imagine…" yok).
+   - Merak sorusu ilk 3 sn içinde; cevap sonda.
+   - Son satır DÖNGÜ: cümle ilk cümleye bağlanır (ör. "…and that's how, 3,000 years ago," → video başa döner: "King Tut was buried with a dagger from space.").
+   - Sessizlikler kısa: 0.25 normal, 0.45 sahne sonu, son satır 0.3 (outro yok).
+   - Klişe/dolgu yok. R listesine yıl, isim, kısaltma telaffuzlarını ekle.
+d) SES: cd /home/claude/vidNN && START=0.15 SID=3 SPD=1.05 python3 /home/claude/toolkit/gen_vo_v1.py
+   (START=0.15 → anlatım ilk karede başlar.) TOTAL 45–58 sn olmalı; değilse metni kısalt/uzat, yeniden üret.
+   Proje klasörü: mkdir -p /home/claude/vidNN && cp /home/claude/toolkit/core/{paper.py,Cinzel.ttf,cloud.npy,stars.npy,wm_orbithos.png} /home/claude/vidNN/
+   (r/ev/audio dosyalarındaki /home/claude/vid42 yollarını vidNN yap.)
+e) ev.py: kelime-senkron olaylar (vid42/ev.py formatı). Her sahnede 4–8 olay.
+f) rNN.py: vid42/r42.py iskeletini kopyala (import'lar, compose, kart yardımcıları,
+   streaks/glow/outl/dl/part gibi çizim araçları), SAHNELERİ ve TARZI SIFIRDAN YAZ.
+   - Her videoya YENİ görsel tarz + konuya özgü YENİ geçiş. Kullanılmışlar (tekrar etme):
+     düz orman/kâğıt yırtılma, belge noir/flaş, Sovyet afişi raster/kırmızı şerit,
+     gece manzara/gaz sisi, Yunan siyah-figür vazo/vazo dönmesi, gravür parşömen/
+     mürekkep lekesi, cyanotype blueprint/Cherenkov halka. Koyu "hacker/kod" tarzı YASAK.
+     Kullandığın tarzı PROGRESS.md'ye ekle ki sonraki tekrar etmesin.
+   - TEMPO: her 1,5–2,5 sn'de görsel değişim (yeni kart, kesme, zoom, yeni nesne).
+   - İLK KARE (t=0): büyük başlık kartı + hareketli şok görsel zaten ekranda.
+   - Kartlar: 1–4 kelime, büyük; altyazıyı tekrar etmez; y>1630 (alt bant) boş kalır.
+   - Altyazı: B.subtitles (karaoke, söylenen kelime turuncu) + filigran WM y=1775. AYNEN KALIR.
+   - SONDA LOGO EKRANI/KARARMA YOK (vid42'deki TF/logo bloğunu kaldır). Son kare ilk kareyle
+     uyumlu olsun ki döngü kesintisiz görünsün.
+   - Test: python3 rNN.py 0 2 5 ... → kareleri sheet.py (/home/claude/toolkit/sheet.py çıktı.jpg kare1.jpg kare2.jpg ...) ile tek görselde birleştir ve
+     Read ile BAK (taşma, çakışma, boş sahne, okunabilirlik). En az 2 tur kontrol.
+g) audioNN.py: audio42.py yapısı (jeneratörler + konuya özel müzik + EV'ye bağlı efektler).
+   master.master(...,bus_gain=X) → hedef: LUFS -14.0±0.3, true peak ≤ -1.0,
+   voice-over-bus 16–17 dB, harsh seconds []. Tutana kadar bus_gain ayarla.
+h) RENDER: runNN.py + renderall.sh (300 karelik parçalar, xargs -P <çekirdek/2>), fin.sh
+   (vid42/fin.sh). Çıktılar: orbithos_<slug>_EN.mp4 (crf24) + _EN_mobil.mp4 (1500k).
+i) KÜÇÜK RESİM: thumbstd.make(...) 1080×1920 — logo standart, ARKASINA ZEMİN EKLEME.
+   2 satır başlık (≤16 / ≤22 harf), etiket kutusu (YER · YIL gibi).
+j) KONTROL: ffprobe süre ≤ 58 sn; final mp4'ten 12 kare çıkar, sheet yap, BAK; ses QA.
+k) GITHUB: repoda shorts/NN_<Slug>/ klasörü:
+     NN_<Slug>.mp4            (mobil sürüm; < 50 MB)
+     NN_<Slug>_kucuk_resim.jpg
+     bilgiler.txt              (format aşağıda)
+     kaynaklar.txt
+     kod/ (lines.py, ev.py, rNN.py, audioNN.py, thumb.py)
+   Tam kalite mp4 50 MB altındaysa onu da koy (yoksa koyma). seg_*.mp4, vo/, mix.wav,
+   test kareleri COMMIT ETME. Sonra:
+   git add shorts/NN_<Slug> PROGRESS.md && git commit -m "Short NN: <başlık>" && git push
+l) PROGRESS.md'ye satır ekle: NN | tarih | tür | konu | tarz | geçiş | süre | LUFS | başlık
+m) Geçici dosyaları sil (seg_*.mp4, ffmpeg2pass*, t_*.jpg) → disk dolmasın. Sonraki videoya geç.
+
+================================================================================
+2) bilgiler.txt FORMATI (her alan ayrı, kopyalanabilir)
+================================================================================
+==================== KONUM (TikTok / Instagram konum etiketi) ====================
+<yer>
+==================== TIKTOK ====================
+<tek satır kanca> #a #b #c #d #orbithos
+==================== INSTAGRAM (Reels) ====================
+<kanca>
+
+<1 cümle merak>
+
+#8-10 hashtag #orbithos
+==================== YOUTUBE ====================
+BAŞLIK:
+<40–60 karakter, sayı veya şok unsuru, en fazla 1 emoji>
+AÇIKLAMA:
+<2–4 paragraf hikâye>
+🎧 Narration is AI-generated. Facts verified from published sources (<kaynak adları>).
+#a #b #c #shorts
+ETİKETLER:
+<12–16 etiket, virgülle, sonuncusu orbithos>
+SABİT YORUM:
+<izleyiciye soru, 1–2 emoji>
+
+================================================================================
+3) BÜTÇE / VERİMLİLİK
+================================================================================
+- Bağlam şişmesin: her video bitince sadece PROGRESS.md'yi güncelle, uzun çıktıları
+  ekrana basma (tail kullan), görsel kontrolü sheet ile toplu yap (tek Read).
+- Bağlam çok büyürse /compact kullan; durum zaten PROGRESS.md ve repoda.
+- Her 5 videoda bir kısa durum mesajı yaz (kaç video, ortalama süre/QA).
+- Bir adım 3 denemede çözülmezse o konuyu atla, PROGRESS.md'ye "ATLANDI: neden" yaz, devam et.
+- DUR komutu gelince mevcut videoyu bitirip push et ve özet ver.
+
+Şimdi kurulumu yap, örnekleri oku ve Short 43'ü üretmeye başla.
