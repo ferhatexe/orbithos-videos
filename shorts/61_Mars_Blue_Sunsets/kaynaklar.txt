@@ -1,0 +1,7 @@
+Short 61 — Mars'ta gün batımı mavidir — kaynaklar
+- NASA/JPL (Mayıs 2015): Curiosity, 15 Nisan 2015 (sol 956) Gale Krateri'nden mavi gün batımını görüntüledi; Mark Lemmon (Texas A&M): toz taneleri mavi ışığın Güneş yönüne yakın ilerlemesini sağlayacak boyutta; gökyüzünün geri kalanı sarı-turuncu
+- Universe Today: "What makes Mars sunsets different from Earth's" (Mars atmosferi Dünya'nınkinin %1'inden az; yüksek irtifa tozu alacakaranlığı gün batımından sonra/gün doğumundan önce ~2 saate kadar sürdürür)
+- PetaPixel (13 Mayıs 2015): "This is What a Sunset on Mars Looks Like in Color"
+- Christian Science Monitor (11 Mayıs 2015): "A blue sunset on the Red Planet"
+- Dünya'da Rayleigh saçılması: gündüz mavi gökyüzü, gün batımında uzun yol → mavi saçılır, kırmızı/turuncu kalır (standart atmosfer optiği)
+- Güneş'in Mars'tan görünen çapı: Mars ~1,52 AU → Dünya'dan görünenin ~2/3'ü (geometrik hesap)
