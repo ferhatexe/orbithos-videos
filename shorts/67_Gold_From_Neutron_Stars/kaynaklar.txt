@@ -1,0 +1,8 @@
+Short 67 — Altın çarpışan nötron yıldızlarından — kaynaklar
+- Pian et al. 2017, Nature 551: "Spectroscopic identification of r-process nucleosynthesis in a double neutron-star merger" (GW170817 / AT2017gfo kilonovası, ~40 Mpc ≈ 130 milyon ışık yılı; 0,03–0,05 Güneş kütlesi madde fırlatıldı)
+- Astronomy Now (29 Ekim 2019): "Heavy element creation confirmed in neutron star merger" (spektrumda stronsiyum; ~5 Dünya kütlesi stronsiyum tahmini)
+- Universe Today: "Not Just Gold. Colliding Neutron Stars Forge Strontium, Lanthanum, and Cerium"
+- LIGO (ligo.org) GW170817 kilonova bilgi notu: altın gibi ağır elementlerin bolluğuna katkı
+- Yıldız çekirdeğinde füzyon demire kadar enerji kazandırır; demirden ağır elementler hızlı nötron yakalama (r-süreci) gerektirir (standart nükleosentez)
+- Nötron yıldızı: ~20 km çaplı, ~1,4 Güneş kütlesi (standart astrofizik)
+Hipotez/uyarı: Altının tamamının nötron yıldızı çarpışmalarından mı yoksa nadir süpernovalardan da mı geldiği araştırılıyor; videoda "probably" ve "the same violent way" olarak sunuldu.
