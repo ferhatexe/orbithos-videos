@@ -1,0 +1,7 @@
+Short 64 — Hubble Deep Field (1995) — kaynaklar
+- NASA Science: Hubble Deep Field görüntü sayfaları (Büyükayı yakınında boş görünen bir alan; kol mesafesinde tutulan topluiğne başı büyüklüğünde; ardışık 10 gün; farklı filtrelerle 342 poz; ilk tahmin ~1.500, sonra ~3.000 galaksi; en uzak galaksilerin ışığı ~10 milyar yıl yol almış)
+- Wikipedia: "Hubble Deep Field" (STScI direktörü Robert Williams kendi takdir zamanını kullandı; meslektaşları "değerli teleskop zamanının israfı" dedi; Robert Kirshner: "Bob haklıydı, ben yanılmışım"; 18–28 Aralık 1995)
+- National Geographic (2015): "When Hubble Stared at Nothing for 100 Hours"
+- NASA/STScI (2004): Hubble Ultra Deep Field — tahmini ~10.000 galaksi
+- Kottke (2017): "An appreciation of the Hubble's Deep Field images"
+Not: "Her yöne bakınca aynı kalabalık" — evrenin büyük ölçekte homojen/izotrop olduğu ve sonraki derin alanların (HDF-South vb.) benzer sonuç verdiğine dayanır.
