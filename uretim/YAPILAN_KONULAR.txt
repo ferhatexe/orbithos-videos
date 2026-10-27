@@ -7,6 +7,7 @@ Tabby'nin yıldızı; Krakatoa; Oklo doğal nükleer reaktör; Evrenin uğultusu
 Olo (yeni renk); Satürn'ün 10 kenarlı şekli; Manyetofosil hayvan GPS'i; Dünya'nın içinden düşüş; Evrenin sınırına zoom;
 Güneş ışığının yolculuğu; Simülasyon/Matrix; Ragnarök; Enigma; Dyatlov Geçidi; Juliane Koepcke; Tamam Shud (Somerton adamı);
 Bugorski (parçacık hızlandırıcı); Nyos Gölü; Prometheus ve karaciğer; Salem cadı mahkemeleri (ergot); Nötrinolar (hayalet parçacıklar).
+Ayrıca 43–71 arası konular için PROGRESS.md tablosuna bak (ör. HD 189733 b cam yağmuru, Tunguska 1908).
 Dizi: The Time Antiquarian (7 bölüm). Denendi ama üretilmedi: Wow! sinyali (kullanılabilir).
 Not: STRATEJI.txt'deki 5 "kısa yeniden sürüm" (Tut hançeri, Algol, Carrington, Voyager 1, Antikythera) istisnadır;
 istenirse 45 sn'lik yeni sürümleri üretilebilir.
